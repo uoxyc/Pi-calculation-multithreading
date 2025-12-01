@@ -1,4 +1,4 @@
-import { decimalchildwork } from "./decimalchildwork";
+import { decimalchildwork } from "./decimalchildwork.js";
 
 export function decimalworkersetup() {
     (() => {
