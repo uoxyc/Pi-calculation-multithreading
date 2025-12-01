@@ -1,6 +1,6 @@
 import bigInt from "big-integer";
-import { myworker } from "./bigint-myworker";
-import { add } from "./bigintextend";
+import { myworker } from "./bigint-myworker.js";
+import { add } from "./bigintextend.js";
 
 export async function bigintCalculatePi(
     createworker,
