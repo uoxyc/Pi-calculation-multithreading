@@ -1,5 +1,5 @@
 import Decimal from "decimal.js";
-import { myworker } from "./decimal-myworker";
+import { myworker } from "./decimal-myworker.js";
 
 export async function decimalCalculatePi(
     createworker,
