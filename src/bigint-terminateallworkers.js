@@ -1,4 +1,4 @@
-import { myworker } from "./bigint-myworker";
+import { myworker } from "./bigint-myworker.js";
 
 export function terminateallworkers() {
     myworker.forEach(function (currentValue, index, arr) {
