@@ -1,5 +1,5 @@
 import bigInt from "big-integer";
-import { abs, add, div, mul } from "./bigintextend";
+import { abs, add, div, mul } from "./bigintextend.js";
 
 export function bigintchildwork(
     piwei,
